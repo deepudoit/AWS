@@ -1,2 +1,0 @@
-AccKeyId : AKIA5HAS7C3YGRG2ILV4
-SecAcckey : w0RFmORlCgio80jWyhiheLPZIPNYfk17pmazatEh
